@@ -1,0 +1,10 @@
+name = input("Enter your name:")
+college = input("Enter your college name:")
+branch = input("Enter your branch:")
+dream = input("Enter your dream:")
+
+print("\n----student-info----")
+print("Name\t",name)
+print("College\t",college)
+print("Branch\t",branch)
+print("Dream\t",dream)

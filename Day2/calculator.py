@@ -1,0 +1,11 @@
+num1 =int(input("Enter your first number:"))
+num2 = int(input("Enter your second number"))
+
+print("\n====Calculator====")
+print("Add =" , num1 + num2 )
+print("Substraction =" , num1 - num2)
+print("Multiplication =" , num1 * num2)
+print("Division =" , num1 / num2)
+print("Floor Division =" , num1 // num2)
+print("Modulas =" , num1 % num2)
+print("Power =" , num1 ** num2)
