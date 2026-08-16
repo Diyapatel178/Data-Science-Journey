@@ -1,0 +1,11 @@
+Product,Category,Sales,Quantity,City
+Laptop,Electronics,55000,2,Ahmedabad
+Phone,Electronics,30000,3,Surat
+Chair,Furniture,12000,5,Vadodara
+Table,Furniture,18000,3,Rajkot
+Laptop,Electronics,55000,1,Surat
+Phone,Electronics,30000,4,Ahmedabad
+Chair,Furniture,12000,2,Rajkot
+Table,Furniture,18000,4,Vadodara
+Laptop,Electronics,55000,3,Ahmedabad
+Phone,Electronics,30000,2,Rajkot
