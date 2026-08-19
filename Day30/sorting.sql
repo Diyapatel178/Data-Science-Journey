@@ -1,0 +1,15 @@
+SELECT * FROM Customer 
+ORDER BY Age ASC;
+
+SELECT * FFROM Customer
+ORDER BY Age DASC;
+
+SELECT * FROM Customer
+ORDER BY Name ASC;
+
+SELECT * FROM Customer
+ORDER BY City ASC,Age ASC;
+
+SELECT * FROM Customer
+WHERE Age >= 20
+ORDER BY Age DESC;
